@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5792ee94-7fda-4e53-afe0-bf9d22d77be4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tfjzl-final-cloud-app-with-database.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/onlinecourse/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "ModelDeveloper",
     "last_opened_file_path": "/home/pamblo/Escritorio/tfjzl-final-cloud-app-with-database"
   }
 }]]></component>
